@@ -13,3 +13,6 @@ As you can realize from this quick explanation, this project works as a regular 
 </div>
   
 After all the Backend implementation I realized that the frontend had space for some improvements so I decided to create a new interface myself which would better fit the flow that the provided use cases were following.
+
+
+You can read the use cases in the readme folder in this repository
